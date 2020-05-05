@@ -2,5 +2,11 @@ Lib/
 Scripts/
 share/
 pyvenv.cfg
+bin/
+lib/
+include/
+lib64
 
 .ipynb_checkpoints/
+__pycache__/
+pip-selfcheck.json
